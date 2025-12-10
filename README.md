@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&section=header&text=Hi%20there👋%20I'm%20Duturi%20😊&fontColor=b8fdbc&fontSize=40&&fontAlignY=18&animation=twinkling)
 
-### Hi there 👋
+### Hi here 👋
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=118&section=footer&animation=fadeIn)
 
