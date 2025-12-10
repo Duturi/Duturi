@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&section=header&text=Hi,%20%20I'm%20Duturi%20👋😊&fontColor=b8fdbc&fontSize=40&&fontAlignY=18&animation=twinkling)
 
-### Hi Here 👋
+### Welcome my profile 👋
+
+<br/>
+<br/>
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
