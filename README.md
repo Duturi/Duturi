@@ -14,6 +14,7 @@
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFF"/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username='Duturi'&layout=compact)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=118&section=footer&animation=fadeIn)
