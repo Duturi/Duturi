@@ -2,6 +2,8 @@
 
 ### Hi herethen 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duturi&show_icons=true&theme=radical)
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=118&section=footer&animation=fadeIn)
 
 <!--
