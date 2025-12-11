@@ -12,7 +12,7 @@ My current focus is mastering HTML for structure and CSS for creating beautiful.
 <br/>
   
 #### Studying 📚
-
+<div align="center">
 <img src="https://img.shields.io/badge/github-181717?style=fat-square&logo=github&logoColor=white">
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=fat-square&logo=css3&logoColor=FFF"/>
@@ -22,7 +22,7 @@ My current focus is mastering HTML for structure and CSS for creating beautiful.
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=fat-square&logo=JavaScript&logoColor=FFF"/>
 
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=fat-square&logo=VisualStudioCode&logoColor=FFF"/>
-
+</div>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=118&section=footer&animation=fadeIn)
 
 
