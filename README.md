@@ -2,8 +2,8 @@
 
 
 ### Hello: Welcome my profile 👋
-- I'm currently studying Frontend Developement.
-- My current focus is mastering HTML for structure and CSS for creating beautiful.
+- 💻I'm currently studying Frontend Developement.
+- 📝My current focus is mastering HTML for structure and CSS for creating beautiful.
 
 <br/>
 <br/>
