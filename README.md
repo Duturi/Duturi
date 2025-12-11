@@ -1,7 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=190&section=header&text=Hi,%20I'm%20Duturi👋%20&fontColor=D507C1&fontSize=50&fontAlignY=30&animation=twinkling)
-
 <div align="center">
   
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=190&section=header&text=Hi,%20I'm%20Duturi👋%20&fontColor=D507C1&fontSize=50&fontAlignY=30&animation=twinkling)
+
+
 ### Hello: *Welcome to my Front-End Space* 👋
 
 <br>
