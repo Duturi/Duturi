@@ -6,7 +6,6 @@
 - 📝My current focus is mastering HTML for structure and CSS for creating beautiful.
 --------------------------------------------------------
 <br/>
-
 #### 📚Studying 
 <div align="start">
 <img src="https://img.shields.io/badge/github-181717?style=fat-square&logo=github&logoColor=white">
