@@ -23,6 +23,7 @@ My current focus is mastering HTML for structure and CSS for creating beautiful.
 
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=fat-square&logo=VisualStudioCode&logoColor=FFF"/>
 </div>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=118&section=footer&animation=fadeIn)
 
 
