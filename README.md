@@ -4,6 +4,7 @@
 ### Hello: *Welcome my profile* 👋
 - 💻I'm currently studying Frontend Developement.
 - 📝My current focus is mastering HTML for structure and CSS for creating beautiful.
+- 
 -----------------------
 
 #### 📚Studying 
@@ -25,9 +26,8 @@
 -------------------------------------------------------------------------------
 
 #### Contacts me
-<div padding: 8px;>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=fat-square&logo=gmail&logoColor=white)](mailto:kimysu38@gmail.com)
-</div>
+> [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=fat-square&logo=gmail&logoColor=white)](mailto:kimysu38@gmail.com)
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=118&section=footer&animation=fadeIn)
 
 
