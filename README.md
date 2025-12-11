@@ -9,11 +9,11 @@
 
 #### 📚Studying 
 <div align="start">
-<img src="https://img.shields.io/badge/github-181717?style=fat-square&logo=github&logoColor=white">
+> <img src="https://img.shields.io/badge/github-181717?style=fat-square&logo=github&logoColor=white">
 
-<img src="https://img.shields.io/badge/css-663399?style==fat-square&logo=css&logoColor=fff" />
+> <img src="https://img.shields.io/badge/css-663399?style==fat-square&logo=css&logoColor=fff" />
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=fat-square&logo=html5&logoColor=FFF"/>
+> <img src="https://img.shields.io/badge/HTML5-E34F26?style=fat-square&logo=html5&logoColor=FFF"/>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=fat-square&logo=JavaScript&logoColor=FFF"/>
 <br>
