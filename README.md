@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hi,%20I'm%20Duturi👋%20&fontColor=b8fdbc&fontSize=40&fontAlignY=18&animation=twinkling)
 
 
-### Hello: #### *Welcome my profile* 👋
+### Hello: 
+#### *Welcome my profile* 👋
 - 💻I'm currently studying Frontend Developement.
 - 📝My current focus is mastering HTML for structure and CSS for creating beautiful.
 -----------------------
