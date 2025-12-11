@@ -1,13 +1,13 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&section=header&text=Hi,%20%20I'm%20Duturi%20👋😊&fontColor=b8fdbc&fontSize=40&&fontAlignY=18&animation=twinkling)
-
+</div>
 
 ### Hi: Welcome my profile 👋
 I'm currently studying Frontend Developement.
 <br/>
-My current focus is mastering HTML for structure and CSS for creating beautiful,
-responsive user interfaces.
+My current focus is mastering HTML for structure and CSS for creating beautiful.
+
 <br/>
 <br/>
   
@@ -24,7 +24,7 @@ responsive user interfaces.
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=FFF"/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=118&section=footer&animation=fadeIn)
-</div>
+
 
 <!--
 **Duturi/Duturi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
