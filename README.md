@@ -4,6 +4,7 @@
 
 
 ### Hi: Welcome my profile 👋
+I'm currently studying Frontend Developement.
 <br/>
 
 #### Studying 📚
