@@ -2,9 +2,9 @@
 
 
 ### Hello: *Welcome my profile* 👋
-- 💻I'm currently studying Frontend Developement.
-- 📝My current focus is mastering HTML for structure and CSS for creating beautiful.
-- 🔎This is a space where I document my projects and learning progress as I build a foundation in HTML, CSS, JavaScript.
+- 💻저는 현재 프론트 엔드 개발자가 되기 위한 과정을 공부하고 있습니다.
+- 📝저의 현재 집중 목표는 구조(structure)를 위한 HTML 마스터와, HTML에 생동감과 시각적 규칙을 부여하기 위한 CSS 마스터입니다.
+- 🔎이곳은 제가 HTML, CSS, JavaScript의 기초를 다지면서 프로젝트와 학습 진행 상황을 기록하는 공간입니다.
 -----------------------
 
 #### 📚Studying 
@@ -27,7 +27,7 @@
 -------------------------------------------------------------------------------
 
 #### ☎️Contacts me
-> [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=fat-square&logo=gmail&logoColor=white)](mailto:kimysu38@gmail.com) && kimysu38@gmail.com 
+> [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=fat-square&logo=gmail&logoColor=white)](mailto:kimysu38@gmail.com)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=118&section=footer&animation=fadeIn)
 
