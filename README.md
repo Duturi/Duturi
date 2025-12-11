@@ -5,9 +5,9 @@
 ### Hello: *Welcome to my Front-End Space* 👋
  💻저는 현재 프론트 엔드 개발자가 되기 위한 과정을 공부하고 있습니다.
  
- 📝저의 현재 집중 목표는 구조(structure)를 위한 HTML와,
+ 📝저의 현재 집중 목표는 구조(structure)를 위한 HTML와, HTML에 생동감과
 
-   HTML에 생동감과 시각적 규칙을 부여하기 위한 CSS를 학습 중입니다.
+    시각적 규칙을 부여하기 위한 CSS를 학습 중입니다.
 
   🔎이곳은 제가 Html, CSS, JavaScript의 기초를 다지면서 프로젝트와
 
