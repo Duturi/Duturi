@@ -24,12 +24,14 @@
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=fat-square&logo=VisualStudioCode&logoColor=FFF"/>
 </div>
 
+<div align="center">
 | 카테고리 | 기술 및 역량 |
 | :--- | :--- |
 | **마크업 (HTML)** | **웹 표준**을 준수한 시멘틱 마크업, 웹 접근성 (WAI-ARIA) 기초 학습 |
 | **스타일링 (CSS)** | **반응형 웹 디자인** (Media Query), 모듈화된 디자인을 위한 **Flexbox 및 Grid** 레이아웃 숙련, CSS 변수 활용 |
 | **상호작용 (JavaScript)** | ES6+ 문법 숙달, **DOM 조작**을 통한 동적 콘텐츠 구현, **비동기 처리(Async/Await)** 기초 학습 |
--------------------------------------------------------------------------------
+</div>
+  -------------------------------------------------------------------------------
 
 #### ☎️Contacts me
 > [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=fat-square&logo=gmail&logoColor=white)](mailto:kimysu38@gmail.com)
