@@ -40,10 +40,10 @@
 -------------------------------------------------------------------------------
 
 #### ☎️Contacts me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=fat-square&logo=gmail&logoColor=white)](mailto:kimysu38@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=fat-square&logo=gmail&logoColor=white)](mailto:kimysu38@gmail.com) kimysu38@gmail.com
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=118&section=footer&animation=fadeIn) kimysu38@gmail.com
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=118&section=footer&animation=fadeIn) 
 
 
 <!--
