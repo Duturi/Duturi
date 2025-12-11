@@ -43,6 +43,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=fat-square&logo=gmail&logoColor=white)](mailto:kimysu38@gmail.com) kimysu38@gmail.com
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duturi)](https://github.com/Duturi/github-readme-stats)
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=118&section=footer&animation=fadeIn) 
 
 
