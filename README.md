@@ -1,5 +1,4 @@
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=H,%20I'm%20Duturi%20&fontColor=b8fdbc&fontSize=40&fontAlignY=18&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=H,%20I'm%20Duturi%20&fontColor=b8fdbc&fontSize=40&fontAlignY=18&animation=twinkling)
 
 
 ### Hi: Welcome my profile 👋
