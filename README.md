@@ -3,6 +3,7 @@
 <div align="center">
   
 ### Hello: *Welcome to my Front-End Space* 👋
+
  💻저는 현재 프론트 엔드 개발자가 되기 위한 과정을 공부하고 있습니다.
  
  📝저의 현재 집중 목표는 구조(structure)를 위한 HTML와, HTML에 생동감과
