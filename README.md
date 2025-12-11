@@ -6,7 +6,7 @@
 ### Hi: Welcome my profile 👋
 ***
 
-I'm currently studying Frontend Developement.
+  I'm currently studying Frontend Developement.
 <br/>
 My current focus is mastering HTML for structure and CSS for creating beautiful, responsive user interfaces.
 <br/>
