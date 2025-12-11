@@ -25,11 +25,13 @@
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=fat-square&logo=VisualStudioCode&logoColor=FFF"/>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=fat-square&logo=Git&logoColor=fff">
+
 -------------------------------------------------------------------------------
 
 #### ☎️Contacts me
-> [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=fat-square&logo=gmail&logoColor=white)](mailto:kimysu38@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=fat-square&logo=gmail&logoColor=white)](mailto:kimysu38@gmail.com)
 </div>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=118&section=footer&animation=fadeIn) kimysu38@gmail.com
 
 
