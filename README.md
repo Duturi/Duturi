@@ -7,7 +7,8 @@
 
 <br/>
 <br/>
-  
+ --------------------------------------------------------
+ 
 #### 📚Studying 
 <div align="start">
 <img src="https://img.shields.io/badge/github-181717?style=fat-square&logo=github&logoColor=white">
@@ -22,6 +23,8 @@
 
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=fat-square&logo=VisualStudioCode&logoColor=FFF"/>
 </div>
+
+#### Contacts me
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=118&section=footer&animation=fadeIn)
 
