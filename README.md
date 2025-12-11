@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=190&section=header&text=Hi,%20I'm%20Duturi👋%20&fontColor=D507C1&fontSize=50&fontAlignY=30&animation=twinkling)
 
 
-### Hello: *Welcome my profile* 👋
+### Hello: *Welcome to my Front-End Space* 👋
 - 💻저는 현재 프론트 엔드 개발자가 되기 위한 과정을 공부하고 있습니다.
 - 📝저의 현재 집중 목표는 구조(structure)를 위한 HTML 마스터와, HTML에 생동감과 시각적 규칙을 부여하기 위한 CSS 마스터입니다.
 - 🔎이곳은 제가 HTML, CSS, JavaScript의 기초를 다지면서 프로젝트와 학습 진행 상황을 기록하는 공간입니다.
@@ -24,6 +24,11 @@
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=fat-square&logo=VisualStudioCode&logoColor=FFF"/>
 </div>
 
+| 카테고리 | 기술 및 역량 |
+| :--- | :--- |
+| **마크업 (HTML)** | **웹 표준**을 준수한 시멘틱 마크업, 웹 접근성 (WAI-ARIA) 기초 학습 |
+| **스타일링 (CSS)** | **반응형 웹 디자인** (Media Query), 모듈화된 디자인을 위한 **Flexbox 및 Grid** 레이아웃 숙련, CSS 변수 활용 |
+| **상호작용 (JavaScript)** | ES6+ 문법 숙달, **DOM 조작**을 통한 동적 콘텐츠 구현, **비동기 처리(Async/Await)** 기초 학습 |
 -------------------------------------------------------------------------------
 
 #### ☎️Contacts me
