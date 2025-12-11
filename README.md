@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=fat-square&logo=VisualStudioCode&logoColor=FFF"/>
 </div>
 
-<div align="center">
+<div style="max-width: 50%; padding-top: 0px; text-align: left;">
   
 | 카테고리 | 기술 및 역량 |
 | :--- | :--- |
