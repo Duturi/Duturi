@@ -19,11 +19,17 @@
  
 -----------------------
 
+🎯 Goals
+📌 단단한 프론트엔드 기초를 위해 HTML/CSS의 구조와 규칙을 명확히 이해하는 것을 목표로 하고 있습니다.
+📌 JavaScript를 활용해 동적인 UI와 사용자 경험(UX) 을 구현하는 능력을 기르고 있습니다.
+📌 작은 프로젝트를 완성하며 실전 감각과 문제 해결 능력을 키우려고 합니다.
+📌 GitHub를 통해 학습 기록을 남기고, 꾸준한 성장 기반을 만들고 있습니다.
+📌 나만의 스타일과 디자인 감각을 담은 포트폴리오 웹사이트 제작을 목표로 하고 있습니다.
 
+-----------------------------------------------
 
 #### 📚Studying 
 
-  
 <img src="https://img.shields.io/badge/github-181717?style=fat-square&logo=github&logoColor=white">
 
 <img src="https://img.shields.io/badge/css-663399?style==fat-square&logo=css&logoColor=fff" />
