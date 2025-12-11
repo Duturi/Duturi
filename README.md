@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=190&section=header&text=Hi,%20I'm%20Duturi👋%20&fontColor=D507C1&fontSize=50&fontAlignY=30&animation=twinkling)
 
-
+<div align="center">
 ### Hello: *Welcome to my Front-End Space* 👋
 - 💻저는 현재 프론트 엔드 개발자가 되기 위한 과정을 공부하고 있습니다.
 - 📝저의 현재 집중 목표는 구조(structure)를 위한 HTML 마스터와, HTML에 생동감과 시각적 규칙을 부여하기 위한 CSS 마스터입니다.
@@ -8,7 +8,7 @@
 -----------------------
 
 #### 📚Studying 
-<div align="start">
+
   
 <img src="https://img.shields.io/badge/github-181717?style=fat-square&logo=github&logoColor=white">
 
