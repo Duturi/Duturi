@@ -5,12 +5,11 @@
 
 ### Hi: Welcome my profile 👋
 <br/>
-</div>
-I'm currently studying Frontend Developement.
 
+I'm currently studying Frontend Developement.
+My current focus is mastering HTML for structure and CSS for creating beautiful, responsive user interfaces.
 <br/>
 <br/>
-<div align="center">
   
 #### Studying 📚
 
