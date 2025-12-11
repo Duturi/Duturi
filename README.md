@@ -21,6 +21,7 @@
 
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=fat-square&logo=VisualStudioCode&logoColor=FFF"/>
 </div>
+
 -------------------------------------------------------------------------------
 
 #### Contacts me
