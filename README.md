@@ -4,7 +4,7 @@
 ### Hello: *Welcome my profile* 👋
 - 💻I'm currently studying Frontend Developement.
 - 📝My current focus is mastering HTML for structure and CSS for creating beautiful.
-- 🔎This is a space where I document my projects and learning progress as I build a foundation in HTML, CSS,JavaScript.
+- 🔎This is a space where I document my projects and learning progress as I build a foundation in HTML, CSS, JavaScript.
 -----------------------
 
 #### 📚Studying 
